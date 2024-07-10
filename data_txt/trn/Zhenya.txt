@@ -1,0 +1,231 @@
+6	Мой дедушка любит рыбалку fishing
+7	The ship sails on the sea: gemi, корабль, gemi denizde yelkenlerini açarak seyahat eder
+7	The cousins have fun together: kuzular, двоюродные братья и сестры, kuzular birlikte eğlenir
+2	Мы любим гулять по лесу
+4	Hotel very temiz
+3	The artist painted a portrait using oil paints
+4	Plane very hızlı
+2	Мой ребенок любит играть с автомобилями
+1	Otobüs şehirden çıkıyor
+1	Çocuklar ağaçların altında oynuyor
+7	The plane flies high in the sky: uçak, самолет, uçak gökyüzünde yüksek uçar
+4	The market is very yakında
+5	Семья aile önemli
+2	У меня большая семья
+2	Мой муж любит кататься на лыжах
+7	The sun закат güneş batış sets in the west
+2	Я люблю фотографировать животных
+4	The weather is very güzel
+7	The flowers цветы çiçekler are blooming in spring
+6	Моя жена любит gardening
+7	The grandparents share their wisdom: dedeler ve büyükanneanlar, дедушки и бабушки, dedeler ve büyükanneanlar bilgilerini paylaşır
+7	Reading чтение okuyma books is enjoyable in any language
+6	Мой друг умеет говорить по-Spanish
+3	The clouds are moving quickly across the sky
+2	Мой ребенок любит играть с конструктором
+6	Мой друг умеет готовить pizza
+6	Мой ребенок любит играть с dolls 
+4	Beach kumlu
+7	The stars twinkle in the sky: yıldızlar, звезды, yıldızlar gökyüzünde parlar
+4	The school is very geniş
+2	Моя сестра любит слушать классическую музыку
+7	The mountains are majestic: dağlar, горы, dağlar majestik
+6	Моя сестра хочет выучить Chinese
+6	She enjoys playing piano
+6	Мой друг умеет говорить по-French
+7	Nature brings peace: doğa, природа, doğa rahatlık getirir
+4	The movie was very hızlı
+3	The birds are singing
+7	The family album preserves memories: aile albümü, семейный альбом, aile albümü anıları saklar
+3	School is modern
+6	Мой сын любит играть в football
+1	Aile bizim önemli
+7	Travel broadens the mind: seyahat, путешествие, seyahat akıl açar
+7	The sun sets in the west: güneş, солнце, güneş batış yapar
+5	Мы любим гулять по городу city
+5	Моя семья любит море deniz
+2	Моя сестра любит готовить вегетарианскую еду
+2	Мы любим ездить на поезде
+7	The rain falls gently: yağmur, дождь, yağmur hafif hafif düşer
+2	Я люблю рисовать пейзажи
+1	Arkadaşlar sağlık için spor yapıyor
+2	Мой друг увлекается фотографией
+3	The birds are singing in the trees
+6	Отец читает newspaper
+3	The hiking trail was challenging but rewarding
+1	Köpekler parkta yürüyor
+3	Nature is beautiful
+1	Kızım bisikletle dolaşıyor
+6	Брат играет в football
+7	Family is important in every culture: aile, семья, aile önemli
+3	The snow is melting in the sun
+6	She practices йога every morning
+1	Aile birlikte pikniğe gidiyor
+4	The restaurant is very iyi
+4	Train station very yakın
+7	The family tree shows our roots: aile ağacı, родословная, aile ağacı köklerimizi gösterir
+2	Мой друг умеет готовить пасту
+2	Я люблю фотографировать природу
+1	Arkadaşlar birlikte yolculuk ediyor
+2	Мой брат увлекается сборкой моделей
+1	Erkekler çay içiyor
+2	Мой друг умеет говорить по-русски
+7	The siblings play together: kardeşler, братья и сестры, kardeşler birlikte oynar
+4	Park very yeşil
+1	Kediler kapıda bekliyor
+3	The artist created a sculpture using recycled materials
+2	Моя семья любит отдыхать на море
+2	Моя семья любит отдыхать на природе
+1	Çocuklar okulda oynuyor
+4	Taxi mahalle
+2	Мои родители любят кататься на велосипедах
+6	Моя мама любит читать books
+4	The cafe is very sakin
+3	The wind is blowing
+2	Мой брат увлекается фотографией
+4	Sea very güzel
+4	The library is very büyük
+1	Kızım çiçekleri suluyor
+6	Мой муж любит играть в golf
+2	У меня есть друг, который увлекается рыбалкой
+6	Моя сестра любит играть в golf
+7	Swimming в океане ocean deniz is fun
+2	Мои дети любят кататься на велосипедах
+1	Erkekler futbol oynuyor
+4	The airport is very yakın
+7	The moon shines at night: ay, луна, ay geceleyin aydınlatır
+4	Airport very yakın
+7	The moon луна ay shines brightly at night
+6	She enjoys listening to музыка
+4	The weather is very soğuk
+3	The sun is setting behind the mountains
+6	Мой сын любит играть в basketball
+7	The flowers bloom in spring: çiçekler, цветы, çiçekler baharın gelmesiyle açılar
+2	Моя мама любит читать книги
+2	Я люблю слушать музыку на виниле
+5	Я люблю читать книги kitap
+5	Мы едем на автобусе bus
+7	The snow covers the ground in winter: kar, снег, kar kışın gelmesiyle toprakları kaplar
+7	The family values are instilled in children: aile değerleri, семейные ценности, aile değerleri çocuklara kazandırılır
+7	The beach is a popular destination: plaj, пляж, plaj çok popüler
+4	Weather güzel
+3	The sun is setting
+4	The library is very sessiz
+3	The rain is gently falling on the rooftops
+6	Моя сестра любит кататься на ice skating
+4	Restaurant iyi
+3	The moon is shining
+7	The family traditions are passed down: aile gelenekleri, семейные традиции, aile gelenekleri bir kuşaktan diğerine geçirilir
+5	Мы едем на поезде tren
+5	Мы любим природу doğa
+4	The restaurant is very güzel
+4	The museum is very eski
+5	Я люблю слушать музыку müzik
+1	Hobi'mde yeni bir şeyler öğreniyorum
+7	The ocean океан deniz is vast and deep
+2	Мой брат умеет танцевать
+4	The museum is very eğitici
+2	Мой отец любит читать газеты
+3	The wind is blowing the leaves off the trees
+5	Мы гуляем по лесу orman
+5	Мы любим кататься на велосипедах bicycle
+4	The beach is very kumlusu
+2	Мой друг увлекается коллекционированием марок
+2	Моя сестра увлекается рисованием
+2	У меня есть друг, который увлекается шахматами
+3	The sun is rising
+7	The parents care for their children: veliler, родители, veliler çocuklarını sever ve korur
+6	She travels поездом
+2	Я люблю слушать музыку на радио
+6	Моя сестра хочет выучить Japanese
+2	Я люблю рисовать портреты
+2	Моя жена любит читать журналы
+5	Мы любим плавать в океане ocean
+6	Мой друг играет на guitar
+2	Моя бабушка любит вязать
+1	Erkekler kahve içiyor
+6	Я хочу выучить German
+7	The river flows through the city: nehir, река, nehir şehir içinde akar
+6	Мой друг умеет готовить sushi
+4	The market is very şehir merkezinde
+7	The ocean is vast: deniz, океан, deniz geniş
+3	The snow is melting
+4	Museum eğitici
+5	Мы любим есть baklava баклава
+2	Мой брат умеет водить машину
+6	Мой брат увлекается игрой в football
+2	Моя сестра любит слушать поп-музыку
+2	Я люблю кататься на коньках летом
+3	The bees are buzzing
+3	The ocean is vast
+1	Arkadaşlar sağlığı için sağlıklı yemek yiyor
+5	Моя семья путешествует seyahat
+3	The clouds are moving quickly
+6	Я хочу выучить Italian
+4	The cafe is very rahat
+6	Мама готовит ужин dinner
+3	The sun is shining brightly in the sky
+7	The sun гüneş солнце rises in the east
+2	Мой брат любит кататься на мотоцикле
+3	The leaves are rustling
+2	Моя дочь любит рисовать
+2	Я люблю кататься на коньках зимой
+2	Мой друг любит путешествовать автостопом
+7	The stars звезды yıldızlar shine brightly at night
+2	Мой отец любит ездить на велосипеде
+1	Köpekler parkta koşuyor
+6	Мой брат увлекается игрой в hockey
+2	Моя сестра любит ездить на коньках
+6	Моя бабушка вяжет knitting
+2	Мои дедушка и бабушка любят путешествовать
+5	Мой брат умеет водить машину car
+2	Мои родители любят природу
+1	Arkadaşlar masada oyun oynuyor
+1	Insanlar meydana gitmek için hazırlanıyor
+7	The train travels across the country: tren, поезд, tren ülkeyi gezerek seyahat eder
+1	Hobi'mde çok başarılıyım
+6	Моя сестра любит играть в tennis
+2	Мы любим путешествовать на машине
+4	Library very sessiz
+3	The flowers are blooming
+3	The basketball team won the championship
+4	The hotel is very yeni
+7	The forest is full of life: orman, лес, orman yaşam dolu
+4	Market şehir merkezinde
+5	Природа doğa güzel
+3	The bees are buzzing around the flowers
+6	Мой друг умеет готовить burrito
+6	Мой брат увлекается чтением comics
+7	The leaves change color in fall: yapraklar, листья, yapraklar sonbaharın gelmesiyle renk değiştirir
+2	Моя сестра любит путешествовать
+3	The rain is falling
+3	The basketball team practices every day
+5	Я фотографирую природу doğa
+1	Aile birlikte yürüyüşe gitti
+7	The car is a common mode of transport: araba, машина, araba yaygın bir taşıma şekli
+3	The river is flowing
+2	Моя семья любит путешествовать на самолете
+6	Мой муж любит играть в golf
+1	Aile birlikte pikniğe gitti
+7	Reading чтение okuyma books is enjoyable in any language
+3	The running club meets every Saturday morning
+1	Kediler kapıda oturuyor
+4	The hotel is very temiz
+5	Моя дочь любит играть с куклами dolls
+1	Arkadaşlar masada kart oynuyor
+1	Otobüs şehire gidiyor
+4	The beach is very kumlu
+6	Мой отец слушает музыку music
+4	Cafe very sessiz
+5	Мы любим отдыхать на природе doğa
+4	The school is very modern
+7	The family home is a place of comfort: ev, дом, ev rahatlık yeri
+6	Сестра рисует картины paintings
+3	The flowers are blooming beautifully in the garden
+2	Мой брат умеет играть на гитаре
+2	Моя сестра любит готовить здоровую еду
+3	The flowers are blooming in the garden
+3	The stars are shining
+3	The leaves are rustling in the breeze
+4	The movie was very eğlenceli
+7	The wind blows through the trees: rüzgar, ветер, rüzgar ağaçlar arasında eser
